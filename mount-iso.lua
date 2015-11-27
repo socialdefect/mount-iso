@@ -3,7 +3,7 @@
 --[[
 This script can be used to mount iso images
 run from the CLI with image as a parameter or
-add it to your right click menu with the %S parameter
+add it to your right click menu with the %f parameter
 --]]
 
 -- Set all required variables
